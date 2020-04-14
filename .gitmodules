@@ -1,3 +1,6 @@
 [submodule "Tools/DBCer"]
 	path = Tools/DBCer
 	url = git@github.com:ZefirAndph/DBCer.git
+[submodule "Core/NCore"]
+	path = Core/NCore
+	url = git@github.com:ZefirAndph/NCore.git
