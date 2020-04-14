@@ -4,3 +4,6 @@
 [submodule "Core/NCore"]
 	path = Core/NCore
 	url = git@github.com:ZefirAndph/NCore.git
+[submodule "Portal/NWeb"]
+	path = Portal/NWeb
+	url = git@github.com:ZefirAndph/NWeb.git
